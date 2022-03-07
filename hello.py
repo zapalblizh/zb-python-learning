@@ -11,4 +11,3 @@ while i < anointed_welcome:
 
     print(i, welcome)
 print("Thank you for using this program")
-
